@@ -1,0 +1,5 @@
+"course_id,course_title,url,is_paid,price,num_subscribers,num_reviews,num_lectures,level,content_duration,published_timestamp,subject"
+"10002344,Besics of Financial Literacy,https://learning.gov.et/courses/basics-of-financial-literacy/,FALSE,0,16,0,2,Beginner Level,6/26/2025,4:18:00,Digital Literacy"
+"10003454,Introduction to the internet and Digital Services,https://learning.gov.et/courses/introduction-to-the-internet-and-digital-services/,FALSE,0,19,2,2,Intermediate Level,7/7/2025,14:23:00,Digital Literacy"
+"10002334,Popular Mobile App and Websites,https://learning.gov.et/courses/popular-mobile-apps-websites/,FALSE,0,9,1,2,Intermediate Level,7/7/2025,2:16:00,Digital Literacy"
+"10002234,Mobile Internet Skills,https://learning.gov.et/courses/mobile-internet-skills/,FALSE,0,10,1,2,Beginner Level,7/7/2025,,Digital Literacy"
